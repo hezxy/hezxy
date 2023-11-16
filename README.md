@@ -1,7 +1,7 @@
 <div align="center">
 <h2>👋 Hello, I'm Hezxy</h2>
 
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/fathurprdd)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/fathurprd)
 
 </div>
 
