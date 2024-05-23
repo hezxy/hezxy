@@ -11,9 +11,7 @@
 
   ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
   ![Typescript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)
-  ![PHP](https://img.shields.io/badge/PHP-484C89?style=for-the-badge&logo=php&logoColor=fff)
   ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
-  ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=fff)
 
 - Frameworks: &nbsp;
 
