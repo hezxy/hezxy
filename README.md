@@ -33,30 +33,3 @@
   ![Stack Overflow](https://img.shields.io/badge/Stack_overflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=fff)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0098FF?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
   ![Android Studio](https://img.shields.io/badge/Android_Studio-3ddc84?style=for-the-badge&logo=androidstudio&logoColor=fff)
-
-### ⚙ &nbsp;GitHub Analytics
-
----
-
-|        Hezxy Commit Streak        |
-|:--------------------------------:|
-|    [![Streaks](https://streak-stats.demolab.com/?user=hezxy&theme=radical)](https://streak-stats.demolab.com/)    |
-
-|    Hezxy Stats    |    Top Languages    |
-| :---------------------: | :-------------------: |
-|    [![Hezxy GitHub Stats](https://github-readme-stats.vercel.app/api?username=hezxy&hide=stars&show_icons=true&locale=en&hide_rank=true&custom_title=My%20GitHub%20Stats&theme=radical)](https://github-readme-stats.vercel.app)    |    [![Hezxy Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hezxy&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)    |
-
-<!--
-**hezxy/hezxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
