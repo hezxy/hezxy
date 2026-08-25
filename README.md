@@ -18,58 +18,38 @@
 
 <br>
 
-<table width="100%" style="max-width:640px" align="center">
-<tr><td align="center">
+<sub><b>LANGUAGES</b></sub>
 
-<sub>✦ &nbsp;<b>LANGUAGES</b>&nbsp; ✦</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Javascript-000000?style=flat-square&logo=javascript&logoColor=FFFFFF" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=FFFFFF" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=FFFFFF" height="36"/>
-
-</td></tr>
-<tr><td height="24"></td></tr>
-<tr><td align="center">
-
-<sub>✦ &nbsp;<b>FRAMEWORKS</b>&nbsp; ✦</sub>
+<img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=FFFFFF" height="42"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=FFFFFF" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/Django-000000?style=flat-square&logo=django&logoColor=FFFFFF" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=FFFFFF" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=FFFFFF" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/CodeIgniter-000000?style=flat-square&logo=codeigniter&logoColor=FFFFFF" height="36"/>
+<sub><b>FRAMEWORKS</b></sub>
 
-</td></tr>
-<tr><td height="24"></td></tr>
-<tr><td align="center">
-
-<sub>✦ &nbsp;<b>DATABASE & HOSTING</b>&nbsp; ✦</sub>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/CodeIgniter-000000?style=for-the-badge&logo=codeigniter&logoColor=FFFFFF" height="42"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/MariaDB-000000?style=flat-square&logo=mariadb&logoColor=FFFFFF" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=FFFFFF" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/GitHub%20Pages-000000?style=flat-square&logo=github&logoColor=FFFFFF" height="36"/>
+<sub><b>DATABASE & HOSTING</b></sub>
 
-</td></tr>
-<tr><td height="24"></td></tr>
-<tr><td align="center">
-
-<sub>✦ &nbsp;<b>TOOLS</b>&nbsp; ✦</sub>
+<img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height="42"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=FFFFFF" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/Android_Studio-000000?style=flat-square&logo=androidstudio&logoColor=FFFFFF" height="36"/>&nbsp;
-<img src="https://img.shields.io/badge/Stack_Overflow-000000?style=flat-square&logo=stackoverflow&logoColor=FFFFFF" height="36"/>
+<sub><b>TOOLS</b></sub>
 
-</td></tr>
-</table>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF" height="42"/>
 
 </div>
 
