@@ -12,51 +12,61 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" style="filter: grayscale(100%);"/>
+
+<br>
+
 <div align="center">
 
-## `//` Tech Stack
+## 「 Tech Stack 」
 
 </div>
 
-<table align="center">
+<br>
+
+<table align="center" width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
-**Languages**
+<h4>Languages</h4>
 
-<img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" /><br/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" /><br/>
 <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=FFFFFF" />
 
-**Frameworks**
+<br><br>
 
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/CodeIgniter-000000?style=for-the-badge&logo=CodeIgniter&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FFFFFF" />
+<h4>Frameworks</h4>
+
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF" /><br/>
+<img src="https://img.shields.io/badge/CodeIgniter-000000?style=for-the-badge&logo=CodeIgniter&logoColor=FFFFFF" /><br/>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" /><br/>
+<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FFFFFF" /><br/>
 <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=FFFFFF" />
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
-**Database & Hosting**
+<h4>Database & Hosting</h4>
 
-<img src="https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" /><br/>
+<img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=FFFFFF" /><br/>
 <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" />
 
-**Tools**
+<br><br>
 
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" />
+<h4>Tools</h4>
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" /><br/>
+<img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF" /><br/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" /><br/>
 <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF" />
 
 </td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
 <div align="center">
 
