@@ -63,10 +63,10 @@ open to collaboration on web & bot dev
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fathurprd&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hezxy&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" width="48%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathurprd&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fathurprd&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hezxy&theme=dark&hide_border=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" width="60%"/>
 
 </div>
 
