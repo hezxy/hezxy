@@ -18,37 +18,38 @@
 
 <br>
 
-<p>
-<img src="https://img.shields.io/badge/Languages-FFFFFF?style=flat-square&labelColor=000000&color=000000" height="26"/>
-</p>
+<sub><b>LANGUAGES</b></sub>
 
-<img src="https://skillicons.dev/icons?i=js,ts,kotlin&theme=dark" />
-
-<br><br>
-
-<p>
-<img src="https://img.shields.io/badge/Frameworks-FFFFFF?style=flat-square&labelColor=000000&color=000000" height="26"/>
-</p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,django,laravel,bootstrap&theme=dark" />
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=FFFFFF" height="42"/>
 
 <br><br>
 
-<p>
-<img src="https://img.shields.io/badge/Database%20%26%20Hosting-FFFFFF?style=flat-square&labelColor=000000&color=000000" height="26"/>
-</p>
+<sub><b>FRAMEWORKS</b></sub>
 
-<img src="https://skillicons.dev/icons?i=mariadb,sqlite,github&theme=dark" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/CodeIgniter-000000?style=for-the-badge&logo=codeigniter&logoColor=FFFFFF" height="42"/>
 
 <br><br>
 
-<p>
-<img src="https://img.shields.io/badge/Tools-FFFFFF?style=flat-square&labelColor=000000&color=000000" height="26"/>
-</p>
+<sub><b>DATABASE & HOSTING</b></sub>
 
-<img src="https://skillicons.dev/icons?i=git,vscode,androidstudio&theme=dark" />
-<img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" height="48"/>
+<img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/GitHub%20Pages-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" height="42"/>
+
+<br><br>
+
+<sub><b>TOOLS</b></sub>
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF" height="42"/>
+<img src="https://img.shields.io/badge/Stack_Overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF" height="42"/>
 
 </div>
 
