@@ -9,14 +9,8 @@
 <a href="https://instagram.com/fathurprd">
   <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
 
-<img src="https://komarev.com/ghpvc/?username=fathurprd&style=for-the-badge&color=B794F4&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=hezxy&style=for-the-badge&color=B794F4&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -71,16 +65,14 @@ fun_fact: I like clean, dark-themed UIs ✨
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fathurprd&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=B794F4&icon_color=B794F4&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathurprd&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=B794F4&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hezxy&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=B794F4&icon_color=B794F4&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezxy&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=B794F4&text_color=c9d1d9" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fathurprd&theme=dracula&hide_border=true&background=0d1117&ring=B794F4&fire=B794F4&currStreakLabel=B794F4" width="65%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hezxy&theme=dracula&hide_border=true&background=0d1117&ring=B794F4&fire=B794F4&currStreakLabel=B794F4" width="65%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fathurprd&theme=dracula&hide_border=true&bg_color=0d1117&color=B794F4&line=B794F4&point=ffffff" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hezxy&theme=dracula&hide_border=true&bg_color=0d1117&color=B794F4&line=B794F4&point=ffffff" width="90%"/>
 
 </div>
-
-> ⚠️ Ganti semua `username=fathurprd` di atas dengan username GitHub kamu yang asli, karena widget ini mengambil data berdasarkan tag `username=`.
 
 <br/>
 
@@ -89,7 +81,7 @@ fun_fact: I like clean, dark-themed UIs ✨
 ## 🏆 &nbsp;Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fathurprd&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hezxy&theme=dracula&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
 </div>
 
 <br/>
@@ -99,28 +91,8 @@ fun_fact: I like clean, dark-themed UIs ✨
 ## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fathurprd/fathurprd/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://raw.githubusercontent.com/hezxy/hezxy/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
-
-> ⚠️ Butuh setup GitHub Action snake-animation di repo profil kamu supaya jalan otomatis. Bilang aja kalau mau aku buatkan file workflow-nya.
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4px">
-
-## 📌 &nbsp;Featured Projects
-
-<div align="center">
-
-| Project | Deskripsi | Tech |
-|---|---|---|
-| **Project Satu** | Deskripsi singkat proyekmu di sini | `JS` `Node.js` |
-| **Project Dua** | Deskripsi singkat proyekmu di sini | `TS` `Laravel` |
-| **Project Tiga** | Deskripsi singkat proyekmu di sini | `Kotlin` |
-
-</div>
-
-> ⚠️ Ganti bagian tabel ini dengan proyek asli kamu — nama, deskripsi, tech stack, dan boleh tambahkan link repo-nya.
 
 <br/>
 
