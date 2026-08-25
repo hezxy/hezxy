@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=HEZXY&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=HEZXY&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=550&lines=Building+things+that+break+in+prod;Django+%7C+Node.js+%7C+Discord+Bots;Currently+debugging+something...;Welcome+to+my+dark+corner+of+GitHub" alt="Typing SVG" />
 
