@@ -1,74 +1,92 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There,%20I'm%20Hezxy%20👋&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Hi%20There,%20I'm%20Hezxy%20👋&fontSize=40&fontColor=8B5CF6&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://instagram.com/fathurprd">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+<a href="https://github.com/hezxy">
+  <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=fff" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Kotlin;Always+building+something+new" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+Kotlin;Always+building+something+new;Welcome+to+my+profile+%F0%9F%9A%80" />
 
 </div>
 
 <br>
 
-## ℹ️ About Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-- 🔭 Currently working on my **side project**
-- 🌱 Always learning new things in web & mobile development
-- 💬 Ask me about **JavaScript, TypeScript, Kotlin, Laravel, Django**
-- 📫 Reach me on [Instagram](https://instagram.com/fathurprd)
+## ⚡ &nbsp;About Me
+
+```yaml
+name: Hezxy
+role: Full Stack Developer
+currently_working_on: Side Project 🔭
+fun_fact: I debug more than I sleep 😅
+reach_me: Instagram @fathurprd
+```
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-### Programming Languages
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
-![Typescript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=fff)
+**Languages**
 
-### Frameworks & Libraries
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-DD4814?style=for-the-badge&logo=CodeIgniter&logoColor=fff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-f55247?style=for-the-badge&logo=laravel&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django)
+<img src="https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoColor=F0DB4F">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178c6">
+<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
 
-### Databases & Cloud Hosting
-![GitHub Pages](https://img.shields.io/badge/GitHub%20pages-000?style=for-the-badge&logo=github&logoColor=fff)
-![MariaDB](https://img.shields.io/badge/MariaDB-00758f?style=for-the-badge&logo=mariadb)
-![SQLite](https://img.shields.io/badge/SQLite-003a57?style=for-the-badge&logo=sqlite&logoColor=fff)
+**Frameworks & Libraries**
 
-### Software & Tools
-![Git](https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=fff)
-![Stack Overflow](https://img.shields.io/badge/Stack_overflow-F47F24?style=for-the-badge&logo=stackoverflow&logoColor=fff)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0098FF?style=for-the-badge&logo=visualstudiocode&logoColor=fff)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3ddc84?style=for-the-badge&logo=androidstudio&logoColor=fff)
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=43853D">
+<img src="https://img.shields.io/badge/CodeIgniter-000000?style=for-the-badge&logo=CodeIgniter&logoColor=DD4814">
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563d7c">
+<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=f55247">
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=44B78B">
 
-</div>
+**Databases & Cloud Hosting**
 
-<br>
+<img src="https://img.shields.io/badge/GitHub%20pages-000000?style=for-the-badge&logo=github&logoColor=fff">
+<img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=00758f">
+<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=fff">
 
-## 📊 GitHub Stats
+**Software & Tools**
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fathurprd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathurprd&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=fathurprd&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=f34f29">
+<img src="https://img.shields.io/badge/Stack_overflow-000000?style=for-the-badge&logo=stackoverflow&logoColor=F47F24">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=0098FF">
+<img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=3ddc84">
 
 </div>
 
 <br>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📊 &nbsp;GitHub Stats
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=fathurprd&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://github-readme-stats.vercel.app/api?username=hezxy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hezxy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=hezxy&theme=dark&hide_border=true&background=0d1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="60%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hezxy&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=fff" width="95%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=hezxy&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer" width="100%"/>
