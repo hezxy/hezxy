@@ -6,7 +6,7 @@
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fathurprd)
+<a href="https://instagram.com/fathurprd"><img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" height="50"/></a>
 
 </div>
 
