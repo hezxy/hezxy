@@ -8,10 +8,6 @@
 
 [![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fathurprd)
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%">
-
 </div>
 
 <br>
